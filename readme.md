@@ -2,7 +2,7 @@ La realizacion del punto 3 se realiza desde SQLiteStudio.
 En entorno local realizarlos antes.
 
 a) Insertar un Producto
-```
+```sql
     INSERT INTO Productos (Descripcion, Precio) VALUES ('Teclado HyperX Alloy Fps',98700.0);
     INSERT INTO Productos (Descripcion, Precio) VALUES ('Adaptador Bluetooth',5000.0);
     INSERT INTO Productos (Descripcion, Precio) VALUES ('Switch Cherry MX Red (unidad)',2200.0);
