@@ -1,4 +1,5 @@
-﻿using Microsoft.Data.Sqlite;
+﻿// Package necesario para agregar: dotnet add package Microsoft.Data.SQLite
+using Microsoft.Data.Sqlite;
 string connectionString = "Data Source=base_test.db;";
 
 // Crear conexión a la base de datos
